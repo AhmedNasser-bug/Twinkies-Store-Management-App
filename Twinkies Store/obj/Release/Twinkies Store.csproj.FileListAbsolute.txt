@@ -1,0 +1,10 @@
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\bin\Release\Twinkies Store.exe.config
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\bin\Release\Twinkies Store.exe
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\bin\Release\Twinkies Store.pdb
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\obj\Release\Twinkies Store.csproj.AssemblyReference.cache
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\obj\Release\Twinkies_Store.frmMainMenu.resources
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\obj\Release\Twinkies_Store.Properties.Resources.resources
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\obj\Release\Twinkies Store.csproj.GenerateResource.cache
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\obj\Release\Twinkies Store.csproj.CoreCompileInputs.cache
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\obj\Release\Twinkies Store.exe
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store\obj\Release\Twinkies Store.pdb
