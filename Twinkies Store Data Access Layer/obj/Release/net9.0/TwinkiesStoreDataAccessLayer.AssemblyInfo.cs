@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwinkiesStoreDataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45075e5cf084b75e441c95734801f3a63aa29a4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+477d2f4dea1225f13dfe129700cf1a19a1530cf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwinkiesStoreDataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwinkiesStoreDataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

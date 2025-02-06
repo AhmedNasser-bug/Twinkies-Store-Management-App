@@ -1,0 +1,13 @@
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\bin\Debug\net9.0\TwinkiesStoreDataAccessLayer.deps.json
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\bin\Debug\net9.0\TwinkiesStoreDataAccessLayer.dll
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\bin\Debug\net9.0\TwinkiesStoreDataAccessLayer.pdb
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.csproj.AssemblyReference.cache
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.AssemblyInfoInputs.cache
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.AssemblyInfo.cs
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.sourcelink.json
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.dll
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\refint\TwinkiesStoreDataAccessLayer.dll
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\TwinkiesStoreDataAccessLayer.pdb
+D:\Study\Programming\Projects\Twinkies Store Management App\Twinkies Store Data Access Layer\obj\Debug\net9.0\ref\TwinkiesStoreDataAccessLayer.dll

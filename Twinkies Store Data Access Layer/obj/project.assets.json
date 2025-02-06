@@ -1649,11 +1649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\TwinkiesStoreDataAccessLayer.csproj",
+      "projectUniqueName": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\Twinkies Store Data Access Layer\\TwinkiesStoreDataAccessLayer.csproj",
       "projectName": "TwinkiesStoreDataAccessLayer",
-      "projectPath": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\TwinkiesStoreDataAccessLayer.csproj",
+      "projectPath": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\Twinkies Store Data Access Layer\\TwinkiesStoreDataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\orginal\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\obj\\",
+      "outputPath": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\Twinkies Store Data Access Layer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
