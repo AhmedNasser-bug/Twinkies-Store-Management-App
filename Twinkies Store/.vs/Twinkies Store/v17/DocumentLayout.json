@@ -1,35 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\Twinkies Store\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\customersaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\shippingcarriersaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\shippingaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\productsaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\websitesaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\transactionsaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\phonesaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\ordersaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A376B2D6-DCE3-4580-877A-E2AC97B9476E}|..\\TestAccessLayer\\TestAccessLayer.csproj|d:\\study\\programming\\projects\\twinkies store management app\\testaccesslayer\\utils\\connectionutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -37,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,127 +22,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ConnectionUtils.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\Utils\\ConnectionUtils.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\Utils\\ConnectionUtils.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\Utils\\ConnectionUtils.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\Utils\\ConnectionUtils.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T19:20:16.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WebsitesAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\WebsitesAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\WebsitesAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\WebsitesAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\WebsitesAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:51:46.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShippingCarriersAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\ShippingCarriersAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\ShippingCarriersAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\ShippingCarriersAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\ShippingCarriersAccess.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:50:26.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\ProductsAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\ProductsAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\ProductsAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\ProductsAccess.cs",
-              "ViewState": "AgIAADYBAAAAAAAAAAAiwEgBAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:39:31.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrdersAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\OrdersAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\OrdersAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\OrdersAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\OrdersAccess.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T14:55:07.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TransactionsAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\TransactionsAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\TransactionsAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\TransactionsAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\TransactionsAccess.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAiwNkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T14:47:08.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShippingAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\ShippingAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\ShippingAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\ShippingAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\ShippingAccess.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAiwJQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T14:32:37.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PhonesAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\PhonesAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\PhonesAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\PhonesAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\PhonesAccess.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwD8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T10:12:14.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomersAccess.cs",
-              "DocumentMoniker": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\CustomersAccess.cs",
-              "RelativeDocumentMoniker": "..\\TestAccessLayer\\CustomersAccess.cs",
-              "ToolTip": "D:\\Study\\Programming\\Projects\\Twinkies Store Management App\\TestAccessLayer\\CustomersAccess.cs",
-              "RelativeToolTip": "..\\TestAccessLayer\\CustomersAccess.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAADwv2gAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T10:06:56.808Z",
-              "EditorCaption": ""
             }
           ]
         }
