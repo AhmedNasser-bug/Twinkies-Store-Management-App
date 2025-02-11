@@ -5,7 +5,8 @@
 4. Twinkies Store Business Layer: contains a csproj file contianing all the business layer classes used to implement any kind of interface.
 5. Test Presentation layer: ASP.NET Web APP test intrface for the Twinkies Store management app (not implemented).
 6. 
-# Technologies: MSSQL, T-SQL, C#, .Net 9, ADO.Net, GitHub, Claude 3.5 Sonnet.
+# Technologies
+MSSQL, T-SQL, C#, .Net 9, ADO.Net, GitHub, Claude 3.5 Sonnet.
 
 # Not Tested yet:
 1. T-SQL Stored procedures. 
