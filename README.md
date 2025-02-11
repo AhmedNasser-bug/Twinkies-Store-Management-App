@@ -1,3 +1,6 @@
+# Description:
+Real life Online Store Management System Full-stack solution handling transactions, customers, orders, shipping,Product, Reviews, and delivery tracking.
+
 # Project structure:
 1. Twinkies Store project files: contains the icons used in UI, chatbot prompts helped in developing Data/Business layers.
 2. TSDB.bak: backup of the used database, it contains the db diagram, business logic stored procedures.
